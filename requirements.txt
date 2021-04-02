@@ -1,10 +1,10 @@
+https://github.com/Tinche/aiofiles/archive/master.zip
 pyrogram
 TgCrypto
 hachoir
 Pillow
 humanfriendly
 motor
-https://github.com/Tinche/aiofiles/archive/master.zip
 aiohttp
 dnspython
 psutil
