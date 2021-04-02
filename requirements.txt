@@ -4,7 +4,7 @@ hachoir
 Pillow
 humanfriendly
 motor
-aiofiles
+https://github.com/Tinche/aiofiles/archive/master.zip
 aiohttp
 dnspython
 psutil
